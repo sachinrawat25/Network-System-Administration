@@ -16,7 +16,7 @@ This project, titled **"Small Office Network Design"**, is part of the MCA curri
 - Establish inter-router communication using RIP.
 - Ensure seamless communication between smartphones and printers.
 
-- (./WhatsApp Image 2025-04-21 at 21.06.23_970cf611)
+  (./WhatsApp Image 2025-04-21 at 21.06.23_970cf611.jpg)
 
 ---
 
